@@ -129,7 +129,7 @@ development is divided into separate phases. In Waterfall model, typically, the 
 of one phase acts as the input for the next phase sequentially.
 
 ###fig2
-(waterfall.png)
+![SDLC](waterfall.png)
 
 ###The sequential phases in Waterfall model are:
 
