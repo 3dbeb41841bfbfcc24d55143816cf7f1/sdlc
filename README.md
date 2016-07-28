@@ -23,7 +23,7 @@
 
 Or simply:
 
-![Software Triangle](images/fast-good-cheap.svg)
+![Software Triangle](images/fast-good-cheap.png)
 
 BOTTOM LINE: You get to pick 2 out of 3
 
