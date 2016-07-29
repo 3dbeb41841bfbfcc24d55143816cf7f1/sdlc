@@ -99,3 +99,4 @@ So we must be *agile* in our approach to developing a software solution to a pro
 * [Agile Lesson](https://github.com/ga-wdi-lessons/agile)
 * [Overview of Agile Methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
 * [Thoughtbot Playbook - No Fixed Bids](https://thoughtbot.com/playbook/our-company/sales#no-fixed-bids)
+* [Thoughtbot - Why Fixed Bids Are Bad For Clients, Too](https://robots.thoughtbot.com/why-fixed-bids-are-bad-for-clients-too)
