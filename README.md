@@ -49,7 +49,7 @@ Waterfall follows a very *familiar* approach to designing and building a system:
 
 But *waterfall* is not usually a good fit for large *Software* projects, because certain *assumptions* do not hold.
 
-Waterfall assumes that we know everything we need to know at the beginning of the project:
+Waterfall _assumes_ that we know everything we need to know at the beginning of the project:
 
 * What features are needed
 * What technologies are a good fit
@@ -65,6 +65,17 @@ The reason that these assumptions don't hold for most Software Development proje
 * What seemed like a good idea 3 months ago seems silly or irrelevant now.
 
 We need a process for building software that can *ADAPT* quickly to change!
+
+### Why is Waterfall so Attractive?
+
+Waterfall is attractive because:
+
+* It is familiar - it is how we generally approach big projects
+* It is logical, intuitive, and sequential
+* It is easy to work when budgeting a project and dealing with legal / contract matters
+* It gives the _illusion_ of managing and minimizing risk
+
+For another perspective see: [Thoughtbot Playbook - No Fixed Bids](https://thoughtbot.com/playbook/our-company/sales#no-fixed-bids).
 
 ### Enter Agile
 
@@ -87,3 +98,4 @@ So we must be *agile* in our approach to developing a software solution to a pro
 
 * [Agile Lesson](https://github.com/ga-wdi-lessons/agile)
 * [Overview of Agile Methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
+* [Thoughtbot Playbook - No Fixed Bids](https://thoughtbot.com/playbook/our-company/sales#no-fixed-bids)
