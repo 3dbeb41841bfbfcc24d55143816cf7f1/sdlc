@@ -1,5 +1,19 @@
 # SDLC
 
+## Table of Contents
+
+  * [Table of Contents](#table-of-contents)
+  * [What is Software Development Life Cycle?](#what-is-software-development-life-cycle?)
+  * [What is the goal of SDLC?](#what-is-the-goal-of-sdlc?)
+  * [The Software Triangle](#the-software-triangle)
+  * [Managing Risk](#managing-risk)
+  * [Traditional Approach - Waterfall](#traditional-approach---waterfall)
+  * [Why is Waterfall so Attractive?](#why-is-waterfall-so-attractive?)
+  * [Enter Agile](#enter-agile)
+  * [For Further Reading](#for-further-reading)
+
+
+
 ## What is Software Development Life Cycle?
 
 * Also called "System Development Life Cycle"
@@ -16,7 +30,7 @@
 * **Scope**: Delivering the _correct_ product
 * **Cost**: Estimating and controlling cost
 
-### The Software Triangle
+## The Software Triangle
 ![Software Triangle](images/iron-triangle.jpg)
 
 ### The Iron Pyramid?
@@ -29,14 +43,14 @@ Or simply:
 
 BOTTOM LINE: You get to pick 2 out of 3
 
-### Managing Risk
+## Managing Risk
 
 Risk is anything that can threaten the *success* of a software project.
 
 > How do we measure and track risk?
 
 
-### Traditional Approach - Waterfall
+## Traditional Approach - Waterfall
 
 ![Waterfall Process](images/waterfall.png)
 
@@ -68,7 +82,7 @@ The reason that these assumptions don't hold for most Software Development proje
 
 We need a process for building software that can *ADAPT* quickly to change!
 
-### Why is Waterfall so Attractive?
+## Why is Waterfall so Attractive?
 
 Waterfall is attractive because:
 
@@ -79,7 +93,7 @@ Waterfall is attractive because:
 
 For another perspective see: [Thoughtbot Playbook - No Fixed Bids](https://thoughtbot.com/playbook/our-company/sales#no-fixed-bids).
 
-### Enter Agile
+## Enter Agile
 
 Agile asks "When do we know the most about a project (at the beginning or at the end)?"
 
@@ -99,7 +113,7 @@ Agile accepts the fact that everything continues to change at a rapid rate:
 
 ---
 
-### For Further Reading
+## For Further Reading
 
 * [Agile Lesson](https://github.com/ga-wdi-lessons/agile)
 * [Overview of Agile Methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
