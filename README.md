@@ -4,9 +4,11 @@
 
 * Also called "System Development Life Cycle"
 
-> SDLC is term referring to a process or set of processes for planning, creating, testing, and deploying an software product (i.e. a library, framework, application, website, etc.)
+> _SDLC_ is term referring to a process or set of processes for planning, creating, testing, and deploying an software product (i.e. a library, framework, application, website, etc.)
 
 ![SDLC](images/sdlc.png)
+
+---
 
 ## What is the goal of SDLC?
 
@@ -103,3 +105,8 @@ Agile accepts the fact that everything continues to change at a rapid rate:
 * [Overview of Agile Methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
 * [Thoughtbot Playbook - No Fixed Bids](https://thoughtbot.com/playbook/our-company/sales#no-fixed-bids)
 * [Thoughtbot - Why Fixed Bids Are Bad For Clients, Too](https://robots.thoughtbot.com/why-fixed-bids-are-bad-for-clients-too)
+
+
+---
+
+![Dilbert Process](images/dilbert-process.gif)
