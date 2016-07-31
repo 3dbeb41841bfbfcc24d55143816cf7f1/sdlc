@@ -89,10 +89,13 @@ Agile accepts the fact that everything continues to change at a rapid rate:
 * Business dynamics change
 * Our understanding continues to evolve
 
-So we must be *agile* in our approach to developing a software solution to a problem.
+#### So we must be *agile* in our approach to developing a software solution to a problem.
 
-![Scrum Process](images/scrum.png)
+---
 
+![Scrum Process](images/scrum-big.png)
+
+---
 
 ### For Further Reading
 
