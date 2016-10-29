@@ -1,11 +1,13 @@
 # SDLC
 
+![Dilbert Process](images/dilbert-process.gif)
+
+---
+
 {{TOC}}
 
 
 ## What is Software Development Life Cycle?
-
-![Dilbert Process](images/dilbert-process.gif)
 
 * Also called "System Development Life Cycle"
 

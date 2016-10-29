@@ -7,6 +7,10 @@ Instead edit the template file and then run 'md-process'.
 
 # SDLC
 
+![Dilbert Process](images/dilbert-process.gif)
+
+---
+
 ## Table of Contents
 
 * [What is Software Development Life Cycle?](#what-is-software-development-life-cycle?)
@@ -21,8 +25,6 @@ Instead edit the template file and then run 'md-process'.
 
 
 ## What is Software Development Life Cycle?
-
-![Dilbert Process](images/dilbert-process.gif)
 
 * Also called "System Development Life Cycle"
 
