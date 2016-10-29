@@ -1,23 +1,6 @@
-<!--
-This file is auto-generated from a 'template.md'
-file using the 'md-process' script.
-Therefore *DO NOT* edit this file directly!
-Instead edit the template file and then run 'md-process'.
--->
-
 # SDLC
 
-## Table of Contents
-
-* [What is Software Development Life Cycle?](#what-is-software-development-life-cycle?)
-* [What is the goal of SDLC?](#what-is-the-goal-of-sdlc?)
-* [The Software Triangle](#the-software-triangle)
-  * [The Iron Pyramid?](#the-iron-pyramid?)
-* [Managing Risk](#managing-risk)
-* [Traditional Approach - Waterfall](#traditional-approach---waterfall)
-* [Why is Waterfall so Attractive?](#why-is-waterfall-so-attractive?)
-* [Enter Agile](#enter-agile)
-* [For Further Reading](#for-further-reading)
+{{TOC}}
 
 
 ## What is Software Development Life Cycle?
@@ -121,6 +104,7 @@ Agile accepts the fact that everything continues to change at a rapid rate:
 
 ## For Further Reading
 
+* [DZone RefCard on Scrum](dzone-rc-scrum.pdf)
 * [Agile Lesson](https://github.com/ga-wdi-lessons/agile)
 * [Overview of Agile Methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
 * [Thoughtbot Playbook - No Fixed Bids](https://thoughtbot.com/playbook/our-company/sales#no-fixed-bids)
